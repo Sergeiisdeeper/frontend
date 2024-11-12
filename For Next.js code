@@ -2,6 +2,6 @@
 git clone <your-repo-url>
 cd <your-repo-directory>
 git checkout <your-branch-name>
-npm install next react react-dom
+npm install next react react-dom    
 
 
