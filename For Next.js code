@@ -1,7 +1,6 @@
-# frontend
-git clone <your-repo-url>
-cd <your-repo-directory>
-git checkout <your-branch-name>
-npm install next react react-dom    
-
+project/
+├── main.py              # Main application file
+├── requirements.txt     # Dependencies
+└── static/
+    └── style.css        # CSS for the web page
 
